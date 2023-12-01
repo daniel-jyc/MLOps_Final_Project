@@ -13,7 +13,7 @@ LlaMa-2 7B
 Mistral 7B
 
 ## Prompt Engineering
-We are using comparing the answers generated with the following four different prompts:
+We are comparing the answers generated with the following four different prompts:
 1. Zero-Shot 2. Few-Shot 3. Chain-of-Thought 4. retrieval augmented generation (RAG)
    
 ## Instruction-tuning
