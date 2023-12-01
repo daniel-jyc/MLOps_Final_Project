@@ -17,7 +17,8 @@ We are using comparing the answers generated with the following four different p
 1. Zero-Shot 2. Few-Shot 3. Chain-of-Thought 4. retrieval augmented generation (RAG)
    
 ## Instruction-tuning
-We are using instruction tuning with data from MASHQA (Multiple Answer Spans Healthcare Question Answering) Research Paper: https://people.cs.vt.edu/mingzhu/papers/conf/emnlp2020.pdf \
+We are using instruction tuning with data from MASHQA (Multiple Answer Spans Healthcare Question Answering) \
+Research Paper: https://people.cs.vt.edu/mingzhu/papers/conf/emnlp2020.pdf \
 GitHub link: https://github.com/mingzhu0527/MASHQA
 
 ## Huggingface Links for tuned models
