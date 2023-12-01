@@ -22,7 +22,7 @@ GitHub link: https://github.com/mingzhu0527/MASHQA
 
 ## Huggingface Links for tuned models
 
-Llama-2: Danieljyc/Llama-2
+1. Llama-2: Danieljyc/Llama-2
   https://huggingface.co/Danieljyc/Llama-2
-Mistral: Danieljyc/Mistral_7B_llr
+2. Mistral: Danieljyc/Mistral_7B_llr
   https://huggingface.co/Danieljyc/Mistral_7B_llr
